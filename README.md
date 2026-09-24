@@ -17,7 +17,7 @@ I'm currently learning programming with C++ and building my skills through pract
     **Technologies:** C++
 
   ## EDUCATION
-  currently pursuing my studies in a computer-related field.
+  currently pursuing my studies in Bachelor of Technology(Communication and Computer Networks).
 
   ## CONTACT
   GitHub:[Harrison684](https://github.com/Harrison684
